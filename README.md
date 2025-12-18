@@ -22,10 +22,14 @@ O objetivo é registrar a evolução nos estudos de lógica, organização de al
 Os arquivos estão organizados em pastas para facilitar a navegação e o entendimento:
 
 ```
-logica-programacao-visuag/
-├── entradaDeDados/      # Exercícios treinando entrada de dados
-├── listas/          
-└── README.md        # Descrição do repositório
+logica-programacao-visualg/
+├── condicionais/    # Estruturas de decisão (Se-Entao-Senao) e operadores lógicos
+├── escolha/         # Seleção múltipla com a estrutura Escolha-Caso
+├── funcoes/         # Aplicações práticas e algoritmos utilitários (calculadoras, menus)
+├── mistos/          # Exercícios que combinam múltiplos conceitos lógicos
+├── repeticao/       # Laços de repetição e validação de dados (Enquanto-Faca)
+├── sequencial/      # Processamento linear, entrada/saída e tipos de dados
+└── README.md        # Documentação do repositório
 ```
 
 ---
