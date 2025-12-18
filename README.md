@@ -1,4 +1,4 @@
-# lógica-programação-visuag
+# lógica-programação-visualg
 
 Este repositório reúne **exercícios e exemplos de Lógica de Programação desenvolvidos no Visualg**, com foco no aprendizado dos fundamentos da programação.
 
